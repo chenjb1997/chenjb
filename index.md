@@ -29,7 +29,7 @@ I am highly involved with Competitive Programming since high school. I received 
 + Problem Setter of [Multi-University Trainning on Nowcoder](https://ac.nowcoder.com/), 2020
 + Problem Setter of [OpenCup](http://opencup.ru), 2020
 + Problem Setter of [ZOJ Monthly](http://acm.zju.edu.cn), 2018 - 2019
-+ Problem Setter of [Codeforces](http://codeforces.com) Round #573
++ Problem Setter of [Codeforces](http://codeforces.com), [Round #573](http://codeforces.com/contest/1190)
 
 
 ## Teaching
