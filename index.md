@@ -28,16 +28,13 @@ My current research field is Theoretical Computer Science (TCS).
 + Gold Medal of 2nd China Collegiate Programming Contest Harbin Onsite, 2017		          
 + Gold Medal of 2nd China Collegiate Programming Contest Finals, 2017
 + Gold Medal of 4th China Collegiate Programming Contest Qinhuangdao Onsite, 2019	
-+ Bronze Medal of for National Olympiad of Informatics Finals, 2015	                            
++ Bronze Medal of National Olympiad of Informatics Finals, 2015	                            
 + Second-Class Scholarship of Elite Students in Basic Sciences, 2017-2018		
 + Second-Class Scholarship of Excellence in Research and Innovation, 2016-2017	
 
 ## Service
 + President of [Students Association for Overseas Exchange (SAOE)](https://baike.baidu.com/item/%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%AF%B9%E5%A4%96%E4%BA%A4%E6%B5%81%E5%8D%8F%E4%BC%9A/6366178), Zhejiang University, 2017 - 2019
 + Student Co-coach of Zhejiang University Competitive Programming Team, 2018 - 2019
-+ Representative of Zhejiang University in 15th Knowledge Contest of Diplomatic Protocol & Social Etiquette, 2016
-+ Representative of Chu Kochen Honors College in Basic Top Talents Academic Conference, 2017
-+ Representative of Chu Kochen Honors College in Basic Top Talents Academic Conference in Computer Science, 2017
 + Coach of CCPC-Wannafly Winter Trainning Camp, 2020
 + Coach of [ByteDance Winter Trainning Camp](https://programcamp.bytedance.com/), 2020
 + Member of [SUA Progamming Competitions Problems Setter Team](https://sua.ac/)
@@ -54,7 +51,9 @@ My current research field is Theoretical Computer Science (TCS).
 + Problem Setter of [OpenCup](http://opencup.ru), 2020
 + Problem Setter of [ZOJ Monthly](http://acm.zju.edu.cn), 2018 - 2019
 + Problem Setter of [Codeforces](http://codeforces.com), [Round #573](http://codeforces.com/contest/1190), 2019
-
++ Representative in 15th Knowledge Contest of Diplomatic Protocol & Social Etiquette, 2016
++ Representative in Basic Top Talents Academic Conference, 2017
++ Representative in Basic Top Talents Academic Conference in Computer Science, 2017
 ## Teaching
 
 + Fall 2020 (TA), [CS 4540 Advanced Algorithms](https://www.cc.gatech.edu/~rpeng/CS4540_F20/)
