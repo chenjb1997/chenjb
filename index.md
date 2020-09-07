@@ -36,8 +36,8 @@ My current research field is Theoretical Computer Science (TCS).
 + President of [Zhejiang University Students Association for Overseas Exchange (SAOE)](https://baike.baidu.com/item/%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%AF%B9%E5%A4%96%E4%BA%A4%E6%B5%81%E5%8D%8F%E4%BC%9A/6366178), 2017 - 2019
 + Student Co-coach of Zhejiang University Competitive Programming Team, 2018 - 2019
 + Representative of Zhejiang University in 15th Knowledge Contest of Diplomatic Protocol & Social Etiquette, 2016
-+ Representative of Pursuit Science Class, Chu Kochen Honors College in Basic Top Talents Academic Conference, 2017
-+ Representative of Pursuit Science Class, Chu Kochen Honors College in Basic Top Talents Academic Conference in Computer Science, 2017
++ Representative of Chu Kochen Honors College in Basic Top Talents Academic Conference, 2017
++ Representative of Chu Kochen Honors College in Basic Top Talents Academic Conference in Computer Science, 2017
 + Coach of CCPC-Wannafly Winter Trainning Camp, 2020
 + Coach of [ByteDance Winter Trainning Camp](https://programcamp.bytedance.com/), 2020
 + Member of [SUA Progamming Competitions Problems Setter Team](https://sua.ac/)
