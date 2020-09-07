@@ -10,7 +10,7 @@ I am highly involved with Competitive Programming since high school. I received 
 ## Education
 + Ph.D., [Computer Science](https://www.cc.gatech.edu/phd-computer-science), [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, 2020 - Current
 + B.Eng. (Honors), Pursuit Science Class, [Chu Kochen Honors College](http://ckc.zju.edu.cn/) (Joint Program with [College of Computer Science and Technology](http://www.cs.zju.edu.cn/)), [Zhejiang University](http://zju.edu.cn), Hangzhou, 2016 - 2020
-+ Guangzhou No.2 High School, Guangzhou, 2010 - 2016
++ [Guangzhou No.2 High School](http://www.gdgzez.com.cn/), Guangzhou, 2010 - 2016
 
 ## Service
 + Student Co-coach of Zhejiang University Competitive Programming Team, 2018 - 2019
@@ -21,11 +21,13 @@ I am highly involved with Competitive Programming since high school. I received 
 + Problem Setter of Zhejiang Province Collegiate Programming Competition, 2019
 + Problem Setter of Shandong Province Collegiate Programming Competition, 2019
 + Problem Setter of Shaanxi Province Collegiate Programming Competition, 2019
-+ Problem Setter of Shaanxi Province Collegiate Programming Competition, 2019
 + Problem Setter of Moscow Pre-Finals Workshop, 2020
 + Problem Setter of Petrozavodsk Trainning Camp, 2019 - 2020
-+ Problem Setter of OpenCup, 2020
-+ Problem Setter of Codeforces Round #573
++ Problem Setter of Multi-University Trainning on [HDU](acm.hdu.edu.cn), 2019 - 2020
++ Problem Setter of Multi-University Trainning on [Nowcoder](https://ac.nowcoder.com/), 2020
++ Problem Setter of [OpenCup](http://opencup.ru), 2020
++ Problem Setter of [ZOJ Monthly](acm.zju.edu.cn), 2018 - 2019
++ Problem Setter of [Codeforces](http://codeforces.com) Round #573
 
 
 ## Teaching
