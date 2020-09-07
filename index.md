@@ -9,7 +9,7 @@ I am highly involved with Competitive Programming since high school. I received 
 
 ## Education
 + Ph.D., [Computer Science](https://www.cc.gatech.edu/phd-computer-science), [Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, 2020 - Current
-+ B.Eng. (Honors), Pursuit Science Class, [Chu Kochen Honors College](http://ckc.zju.edu.cn/) (Joint Program with [College of Computer Science and Technology](http://www.cs.zju.edu.cn/)), [Zhejiang University](http://zju.edu.cn), Hangzhou, 2016 - 2020
++ B.Eng. (Honors), Pursuit Science Class, [Chu Kochen Honors College](http://ckc.zju.edu.cn/) (Joint Program with [College of Computer Science and Technology](http://www.cs.zju.edu.cn/)), [Zhejiang University](http://www.zju.edu.cn/), Hangzhou, 2016 - 2020
 + [Guangzhou No.2 High School](http://www.gdgzez.com.cn/), Guangzhou, 2010 - 2016
 
 ## Service
