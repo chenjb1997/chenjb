@@ -63,7 +63,7 @@ My current research field is Theoretical Computer Science (TCS).
 
 + Intern of Creative Optimization Group, Strategic Algorithms Developing Center at [Tencent Holdings Ltd.](https://www.qq.com/), Department of Advertising, 2019
 
-+ Research Assistant of College of Computer Science and Technology, Zhejiang University, 2020 - Current
++ Research Assistant of [College of Computer Science and Technology](http://www.cs.zju.edu.cn/), [Zhejiang University](http://www.zju.edu.cn/), 2020 - Current
 
 ## Contact
 
