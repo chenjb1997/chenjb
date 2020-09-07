@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Photo of me](https://github.com/chenjb1997/chenjb1997.github.io/blob/gh-pages/qingdao.JPG)
 
 ## About me
 
