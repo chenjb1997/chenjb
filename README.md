@@ -1,2 +1,2 @@
-# chenjb.github.io
-Personal Website
+# Jingbang Chen
+
